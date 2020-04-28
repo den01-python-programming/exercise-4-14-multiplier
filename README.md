@@ -10,15 +10,15 @@ You also need to create an instance variable in this exercise.
 An example of the class in use:
 
 ```python
-multiply_by_three = Multiplier(3);
+multiply_by_three = Multiplier(3)
 
-print("multiply_by_three.multiply(2): " + multiply_by_three.multiply(2));
+print("multiply_by_three.multiply(2): " + multiply_by_three.multiply(2))
 
-Multiplier multiplyByFour = new Multiplier(4);
+Multiplier multiplyByFour = new Multiplier(4)
 
-print("multiply_by_four.multiply(2): " + multiply_by_four.multiply(2));
-print("multiply_by_three.multiply(1): " + multiply_by_three.multiply(1));
-print("multiply_by_four.multiply(1): " + multiply_by_four.multiply(1));
+print("multiply_by_four.multiply(2): " + multiply_by_four.multiply(2))
+print("multiply_by_three.multiply(1): " + multiply_by_three.multiply(1))
+print("multiply_by_four.multiply(1): " + multiply_by_four.multiply(1))
 ```
 
 Output:
