@@ -24,8 +24,8 @@ print("multiply_by_four.multiply(1): " + multiply_by_four.multiply(1))
 Output:
 
 ```plaintext
-multiplyByThree.multiply(2): 6
-multiplyByFour.multiply(2): 8
-multiplyByThree.multiply(1): 3
-multiplyByFour.multiply(1): 4
+multiply_by_three.multiply(2): 6
+multiply_by_four.multiply(2): 8
+multiply_by_three.multiply(1): 3
+multiply_by_four.multiply(1): 4
 ```
